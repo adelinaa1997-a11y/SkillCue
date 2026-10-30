@@ -2,7 +2,7 @@
 
 Персональная подготовка к собеседованию по конкретной вакансии.
 
-[Скачать для Windows](https://github.com/GalievGleb/SkillCue/releases/latest) · [Сайт](https://skill-cue.ru/) · [English overview](https://skill-cue.ru/en/) · [Поддержка @SkillCue](https://t.me/SkillCue)
+[Скачать для Windows](https://github.com/adelinaa1997-a11y/SkillCue/releases/latest) · [Сайт](https://skill-cue.ru/) · [English overview](https://skill-cue.ru/en/) · [Поддержка @SkillCue](https://t.me/SkillCue)
 
 > SkillCue находится на стадии работающего MVP перед публичным запуском. Сейчас проект готовится к первым внешним тестировщикам.
 
@@ -51,7 +51,7 @@ SkillCue помогает подготовиться и яснее сформу�
 
 ## Установка
 
-1. Скачайте `SkillCue-Setup.exe` из [последнего релиза](https://github.com/GalievGleb/SkillCue/releases/latest).
+1. Скачайте `SkillCue-Setup.exe` из [последнего релиза](https://github.com/adelinaa1997-a11y/SkillCue/releases/latest).
 2. Запустите установщик на Windows 10/11.
 3. Если Windows SmartScreen показывает неизвестного издателя, проверьте, что файл получен из этого репозитория, затем откройте «Подробнее» и продолжите только если источник совпадает.
 4. Вставьте вакансию и начните бесплатный разбор.
